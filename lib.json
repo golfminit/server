@@ -1,1 +1,29 @@
-
+{
+    "url": "https://cdn.jsdelivr.net/gh/golfminit/server@main/lib.zip",
+    "version": "1.0.1",
+    "bg_image": "https://cdn.jsdelivr.net/gh/golfminit/server@main/bg_image.jpg",
+    "ff_version": "53 OB",
+    "app_version": "1.0.1",
+    "server_status": "Connected",
+    "mandatory_transfer": false,
+    "mandatory_transfer_url": "",
+    "show_message": false,
+    "message_text": "",
+    "urls": {
+        "redirect": "https://key-ghostbot.vercel.app/",
+        "faq": "https://ghostfree.free.bg/Questions.html",
+        "instagram": "https://www.instagram.com/ghost.auth",
+        "activation": "https://key-ghostbot.vercel.app/"
+    },
+    "design": {
+        "app_title": "GOLFMINITV",
+        "app_title_color": "#E50914",
+        "app_title_size": 20.0,
+        "badge_text": " Proxy",
+        "badge_color": "#FFFFFF",
+        "badge_size": 16.0,
+        "version_text": "GOLFMINITV  BOT v1",
+        "version_color": "#444444",
+        "version_size": 10.0
+    }
+}
